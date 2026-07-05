@@ -154,8 +154,7 @@ The dataset contains information related to:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of all dashboard pages here.
-
+![Dashboard](https://github.com/Mohd-NasrullahSidd1137/Mutual_Fund_Analytics_Dashboard/blob/250890c8611f0c8485ce8af6197dab8c46d7c1dc/Dashboard%20img.png)
 ---
 
 ## 🚀 Future Enhancements
@@ -166,4 +165,3 @@ The dataset contains information related to:
 * AI-based Investment Insights
 * Predictive Analytics using Machine Learning
 
-![Cover](Dashboard img.png)
