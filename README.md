@@ -1,6 +1,3 @@
-Bhai, ye ek **ATS-friendly aur professional GitHub README.md** hai. Bas isko apne GitHub repo ke `README.md` me paste kar dena.
-
----
 
 # 📊 Mutual Fund Analytics Dashboard
 
