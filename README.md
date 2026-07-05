@@ -166,6 +166,4 @@ The dataset contains information related to:
 * AI-based Investment Insights
 * Predictive Analytics using Machine Learning
 
-
-
-Ye README professional hai aur recruiter ya hiring manager ko project ka complete overview dega. GitHub profile pe bhi kaafi strong impression banega.
+![Cover](Dashboard img.png)
